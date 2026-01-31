@@ -27,4 +27,4 @@ This project focuses on analyzing retail transaction data to gain insights into 
 - How engaged are customers with the loyalty program?
 
 ## Dashboard
-<a href="https://github.com/oluwakemi-aliu/Retail-Transaction-Performance-Analysis/blob/main/Retail%20Transaction%20Performance%20Dashboard.pbix"></a>
+<a href="https://github.com/oluwakemi-aliu/Retail-Transaction-Performance-Analysis/blob/main/Retail%20Transaction%20Performance%20Dashboard.pbix">View Dashboard</a>
